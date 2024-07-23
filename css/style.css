@@ -33,7 +33,7 @@ main {
     transition: all 0.2s ease-in-out;
 }
 
-#grid-container > .new-bg-color {
+#grid-container > .safe-cell {
     background-color: darkblue;
 }
 
